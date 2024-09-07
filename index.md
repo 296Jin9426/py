@@ -1,8 +1,8 @@
 
 # #1
 
-- [quiz file](2cbb997330604e54/#1/#1.py)
+- [quiz file](2cbb997330604e54/%231/%231.py)
 
-- [check file (windows)](2cbb997330604e54/#1/#1.exe)
+- [check file (windows)](2cbb997330604e54/%231/%231.exe)
 
 ---
