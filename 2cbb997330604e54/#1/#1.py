@@ -25,10 +25,10 @@ if(__name__=="__main__"):#<- starting point
         #Caesar cipher(A->J)=> "hxd wnnm jmm cqnbn lxmn:"
 
         # asnii=ord(asnii)
-        # if ( asnii>=asnii_a and asnii<=asnii_z ):#if the asnii character is between 'a' and 'z'
+        # IF ( asnii>=asnii_a and asnii<=asnii_z ):#if the asnii character is between 'a' and 'z'
         #     asnii=chr(( asnii-asnii_a +9)%26+asnii_a)
         #     pass
-        # elif ( asnii>=asnii_A and asnii<=asnii_Z ):#or between 'A' and 'Z'
+        # elif ( asnii>=asnii_A and asnii<=asnii_A ):#or between 'A' and 'Z'
         #     asnii=chr(( asnii-asnii_A +9)%26+asnii_A)
         #     pass
 
