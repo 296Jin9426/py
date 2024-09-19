@@ -16,8 +16,8 @@
 
 ## #2
 
-- [quiz file](2cbb997330604e54/%231/%231.py)
+- [quiz file](files%231.py)
 
-- [check file (windows)](2cbb997330604e54/%231/%231.exe)
+- [check file (windows)](files%231/%231.exe)
 
 ---
