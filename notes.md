@@ -67,5 +67,25 @@ print("b",b)
 print("c",c)
 ```
 
+## [Data type](https://www.w3schools.com/python/python_datatypes.asp)
+
+```python
+x=5
+print(type(x))#int
+```
+
+```python
+v0=2.3
+print(v0,type(v0))#2.3 float
+v1=int(v0)
+print(v1,type(v1))#2 int
+v2=float(v1)
+print(v2,type(v2))#2.0 float
+v3=str(v2)
+print(v3,type(v3))#2.0 str
+```
+
 ---
+
+# List
 
